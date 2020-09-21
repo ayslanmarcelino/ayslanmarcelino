@@ -5,4 +5,4 @@
 
 :mortar_board:  Gratuated in Information Systems at the [CESMAC](https://www.cesmac.edu.br)
 
-:man_technologist:  Currently working at [stant](https://github.com/stantmob) and [grafeno](https://github.com/grafeno-sa)
+:man_technologist:  Currently working at [grafeno](https://github.com/grafeno-sa)
